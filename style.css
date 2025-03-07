@@ -1,0 +1,22 @@
+.titulo{
+    color: blue;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+.botão{
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.botão:hover{
+    background-color: yellow;
+    color: red;
+}
